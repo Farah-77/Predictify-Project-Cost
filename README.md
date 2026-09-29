@@ -4,7 +4,7 @@
 
 Predictify is a web application that predicts the cost and duration of construction-style projects from historical data. The web interface is built with PHP and MySQL, and the machine learning part is written in Python (scikit-learn). Users enter project details and get predictions from three regression models side by side.
 
-> Developed individually by **Farah Alshammari** during her COOP (cooperative training) period at Saudi Aramco, as the technical project of the COOP program, Department of AI & Data Science, University of Hail. This is an independent educational project, not an official Aramco product, and it uses only publicly available data. Covers system analysis, database design, PHP backend and UI, the ML pipeline, and PHP-Python integration. Built over 6 weeks using the Waterfall methodology.
+> Developed individually by **Farah Alshammari** during her COOP (cooperative training) period at Saudi Aramco, as the technical project of the COOP program, Department of AI & Data Science, University of Hail. This is an independent educational project, not an official Aramco product, and it uses only publicly available data. Covers system analysis, database design, PHP backend and UI, the ML pipeline, and PHP-Python integration.
 
 ---
 
@@ -248,3 +248,4 @@ Predictify/
 ## License
 
 Developed for educational purposes as a COOP project at the University of Hail.
+
